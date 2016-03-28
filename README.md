@@ -1,5 +1,6 @@
 # Sentiment-Analysis
 Naive Bayes Classifier for Sentiment Analysis on Movies Reviews
+
 The purpose of this program is to create a naive Bayes classifier to perform binary sentiment analysis on movie reviews,
 using Pang & Lee’s (2005) polarity dataset 2.0, which consists of 1000 positive and 1000 negative movie reviews. 
 These reviews have already been pre-processed so that tokenization has already been done.
