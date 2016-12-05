@@ -8,3 +8,5 @@ Each review is in its own file, each sentence is on its own line, and each token
 
 The classifier is trained on the first 800 files (cv0 to cv7) and is evaluated on the held-out test data: 
 the 200 files beginning with cv8 and cv9.
+
+The classifier is first trained only only 100 reviews, then 300, then 500 and finally 800 files. The purpose of this is to show how the starts with poor precision but improves over the bigger datasets.
